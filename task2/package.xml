@@ -3,9 +3,9 @@
 <package format="3">
   <name>task2</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="shouryadeep@todo.todo">shouryadeep</maintainer>
-  <license>TODO: License declaration</license>
+  <description>task2-balltracking</description>
+  <maintainer email="shouryadeep05@outlook.com">shouryadeep</maintainer>
+  <license>Apache-2.0</license>
 
   <depend>sensor_msgs</depend>
   <depend>std_msgs</depend>
